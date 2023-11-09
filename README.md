@@ -54,11 +54,15 @@ istiyor.
 
 ## Additional Problems
 
+### UI & UX
 Task detaylarında uygulamanın nasıl olacağı ile ilgili bir yönerge var fakat tasarım olmadığı için neredeyse her şey benim yorumuma açık.
 
 Emlakçı yöneticisinin ve çalışanlarının genelde kullandığı uygulamaları araştırarak fikir sahibi olmaya çalışacağım.
 
 Kullanıcıların zorluk çekmeden kolayca kullanabilecekleri bir uygulama olması için alışkanlıklarına uygun bir UX deneyimi yaratmaya çalışcağım.
+
+### Airtable
+Kaynak olarak kullanmam istenilen airtable tablosu belirtilen problemi çözmek için yetersiz. Bu nedenle kendim farklı bir kaynak kullanacağım.
 
 
 ## Requirements
